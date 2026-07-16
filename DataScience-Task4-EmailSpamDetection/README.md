@@ -1,10 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
-
-![NLP](https://img.shields.io/badge/NLP-TF--IDF-green)
-
-![Status](https://img.shields.io/badge/Project-Completed-success)
 # 📧 Email Spam Detection using Machine Learning
 
 ## 📌 Overview
